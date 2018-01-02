@@ -6,5 +6,5 @@ section {
     width: 250px;
     height: 250px;    
     .sec1 {float: left;}
-    .sec1 section {width: 250px; float: left;}
+    .sec1 section {width: 250px; float: right;}
 }
