@@ -1,15 +1,9 @@
-div {
-    width: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
-    color: blue;
-}
+
 section { 
     display: block;
     background: gray;
     border-style: solid;
     width: 250px;
-    
-    
+    height: 250px;    
+    float: right;
 }
